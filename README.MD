@@ -1,6 +1,6 @@
 ## Hosted Project
 
-[E-Commerce API Heroku URL](https://e-commecomrce-api-10.herokuapp./)
+[E-Commerce API Heroku URL](https://imms-e-commerce-api.herokuapp.com/)
 
 #### Setup Basic Express Server
 
